@@ -1,4 +1,7 @@
-# DIO-PrimeiroRepositorio
-Desafio de projeto Git/Github
-## Link CodePen
-[Projetos CodePen](https://codepen.io/your-work/)
+👩‍💻 OLÁ, EU SOU A AMANDA E ESTE É O MEU PERFIL!
+
+🖥️ APRENDENDO C# .NET E CONCEITOS BÁSICOS DE PROGRAMAÇÃO
+
+🏗️ FORMADA EM ENGENHARIA CIVIL
+
+
